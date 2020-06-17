@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "epic behavior pack. behavior? behaviour? gosh living in canada is so hard",
+        "name": "epic™ behavior pack",
+        "uuid": "e6577b5e-668e-4649-9293-6efa363208ac",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "epic behavior pack. behavior? behaviour? gosh living in canada is so hard",
+            "type": "data",
+            "uuid": "8e8a70b1-0363-49bb-acbb-8a49d368ccc5",
+            "version": [0, 0, 1]
+        }
+    ]
+   
+}
